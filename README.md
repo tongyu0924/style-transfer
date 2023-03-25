@@ -1,6 +1,5 @@
 # style-transfer
 
-result:
 VGG19 - generated
 ![image](https://user-images.githubusercontent.com/119610311/227718641-7738a142-b0ec-461d-b694-3efcf594a5f2.png)
 
